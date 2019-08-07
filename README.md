@@ -8,3 +8,4 @@ SSSoundboard. Give it a listen.
 - tongue flapping [SG,SJ]
 - ow! [SJ]
 - raspy glottal inhale sound thing [SJ]
+- YEAH-YUHHHH [SJ]
